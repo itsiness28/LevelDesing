@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Alumno/Desktop/LevelDesing/MyProject 5.4/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Alumno/Desktop/LevelDesing/MyProject 5.4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/GQ/BZFGO9EFBCA1UHAKG7JMJA.uasset",
+				"C:/Users/Alumno/Desktop/LevelDesing/MyProject 5.4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/W1/QK74MC8113MOODSSUXNER6.uasset",
+				"C:/Users/Alumno/Desktop/LevelDesing/MyProject 5.4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/UX/JKBVFTS5U7KH2S19YZHUHF.uasset",
+				"C:/Users/Alumno/Desktop/LevelDesing/MyProject 5.4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/YN/IAKGVSOVG59RJQYRXZX9A2.uasset",
+				"C:/Users/Alumno/Desktop/LevelDesing/MyProject 5.4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/MI/O7WMICXVA582VNOMRK9VH3.uasset",
+				"C:/Users/Alumno/Desktop/LevelDesing/MyProject 5.4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/WX/73HVD7LBOUKOAW3D9DZTUV.uasset",
+				"C:/Users/Alumno/Desktop/LevelDesing/MyProject 5.4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CB/0PV132EGRSGRKRSAI8XV26.uasset",
+				"C:/Users/Alumno/Desktop/LevelDesing/MyProject 5.4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/1N/3I5YU0QHIG10S4HKXZPT7Y.uasset",
+				"C:/Users/Alumno/Desktop/LevelDesing/MyProject 5.4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/EF/BMD9F252V4TCX3GSHL8TAN.uasset",
+				"C:/Users/Alumno/Desktop/LevelDesing/MyProject 5.4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/T7/BDW9PXDN7H5NFOKSSXH2QN.uasset",
+				"C:/Users/Alumno/Desktop/LevelDesing/MyProject 5.4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/37/19NX28FVU65SA7RA3BPGBH.uasset",
+				"C:/Users/Alumno/Desktop/LevelDesing/MyProject 5.4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/VB/VNVCINSOI2WTXTV3CBJLN9.uasset",
+				"C:/Users/Alumno/Desktop/LevelDesing/MyProject 5.4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/DS/1LPQB8BZUHBLUFHIPNX4ZE.uasset",
+				"C:/Users/Alumno/Desktop/LevelDesing/MyProject 5.4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/ZW/2U3M33MTM2UC1ANUWMVN8I.uasset",
+				"C:/Users/Alumno/Desktop/LevelDesing/MyProject 5.4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/GY/Z63E14LS8TY3Q15CW85OQ6.uasset",
+				"C:/Users/Alumno/Desktop/LevelDesing/MyProject 5.4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/WQ/6TA3P02O2ZTJ2TUNQMRCO4.uasset",
+				"C:/Users/Alumno/Desktop/LevelDesing/MyProject 5.4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XN/TF2639JO0PJNWVUXGA1NK1.uasset",
+				"C:/Users/Alumno/Desktop/LevelDesing/MyProject 5.4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/3K/B2UK6VWK1DZXVV6IN68MA0.uasset",
+				"C:/Users/Alumno/Desktop/LevelDesing/MyProject 5.4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/14/8YBSVOEP13IHFUVHPVPCK8.uasset",
+				"C:/Users/Alumno/Desktop/LevelDesing/MyProject 5.4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/15/KLXFHQQF68TQG6EJTKOSPF.uasset",
+				"C:/Users/Alumno/Desktop/LevelDesing/MyProject 5.4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/CK/SJ5O8UJIL9P2ZLZCLOT9KZ.uasset",
+				"C:/Users/Alumno/Desktop/LevelDesing/MyProject 5.4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/QC/V90EKH1NGYC1DYDD9EGG5P.uasset",
+				"C:/Users/Alumno/Desktop/LevelDesing/MyProject 5.4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/8Q/HJ05WJUJP474D4D4XZOFF9.uasset",
+				"C:/Users/Alumno/Desktop/LevelDesing/MyProject 5.4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/7Y/K6I3BX7JTUOKMHM3A7KGQT.uasset",
+				"C:/Users/Alumno/Desktop/LevelDesing/MyProject 5.4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/IX/E1SGPTPNEDBJG1O4R5O89D.uasset",
+				"C:/Users/Alumno/Desktop/LevelDesing/MyProject 5.4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/Alumno/Desktop/LevelDesing/MyProject 5.4/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/FR/0IZSMXRDEWGNC22OTCOIFT.uasset",
+				"C:/Users/Alumno/Desktop/LevelDesing/MyProject 5.4/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset"
+			]
+		}
+	]
+}
