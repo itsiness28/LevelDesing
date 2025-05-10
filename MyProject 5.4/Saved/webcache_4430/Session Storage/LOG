@@ -1,3 +1,8 @@
+<<<<<<< Updated upstream
 2025/05/08-02:41:53.449 4980 Reusing MANIFEST D:/MyProject 5.4/Saved/webcache_4430\Session Storage/MANIFEST-000001
 2025/05/08-02:41:53.450 4980 Recovering log #3
 2025/05/08-02:41:53.451 4980 Reusing old log D:/MyProject 5.4/Saved/webcache_4430\Session Storage/000003.log 
+=======
+2025/05/04-10:44:53.150 2e3c Creating DB C:/Users/inesc/Documents/GitHub/LevelDesing/MyProject 5.4/Saved/webcache_4430\Session Storage since it was missing.
+2025/05/04-10:44:53.162 2e3c Reusing MANIFEST C:/Users/inesc/Documents/GitHub/LevelDesing/MyProject 5.4/Saved/webcache_4430\Session Storage/MANIFEST-000001
+>>>>>>> Stashed changes
