@@ -1,0 +1,14 @@
+[0508/001855.921:ERROR:database.cc(1707)] Cookie sqlite error 5, errno 33: database is locked, sql: DELETE FROM cookies WHERE is_persistent != 1
+[0508/001855.947:WARNING:sqlite_persistent_cookie_store.cc(1455)] Unable to delete session cookies.
+[0508/001856.338:ERROR:cache_util_win.cc(20)] Unable to move the cache: Acceso denegado. (0x5)
+[0508/001856.338:ERROR:cache_util.cc(144)] Unable to move cache folder D:/MyProject 5.4/Saved/webcache_4430\Cache to D:/MyProject 5.4/Saved/webcache_4430\old_Cache_000
+[0508/001856.342:ERROR:disk_cache.cc(184)] Unable to create cache
+[0508/001858.909:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0508/001926.081:ERROR:database.cc(1707)] Cookie sqlite error 5, errno 33: database is locked, sql: DELETE FROM cookies WHERE name=? AND host_key=? AND path=?
+[0508/001926.081:ERROR:database.cc(1707)] Cookie sqlite error 5, errno 33: database is locked, sql: INSERT INTO cookies (creation_utc, host_key, name, value, path, expires_utc, is_secure, is_httponly, last_access_utc, has_expires, is_persistent, priority, encrypted_value, samesite, source_scheme, source_port, is_same_party) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+[0508/001926.081:ERROR:database.cc(1707)] Cookie sqlite error 5, errno 33: database is locked, sql: DELETE FROM cookies WHERE name=? AND host_key=? AND path=?
+[0508/001926.081:ERROR:database.cc(1707)] Cookie sqlite error 5, errno 33: database is locked, sql: INSERT INTO cookies (creation_utc, host_key, name, value, path, expires_utc, is_secure, is_httponly, last_access_utc, has_expires, is_persistent, priority, encrypted_value, samesite, source_scheme, source_port, is_same_party) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+[0508/001926.081:ERROR:database.cc(1707)] Cookie sqlite error 5, errno 33: database is locked, sql: UPDATE cookies SET last_access_utc=? WHERE name=? AND host_key=? AND path=?
+[0508/001926.081:ERROR:database.cc(1707)] Cookie sqlite error 5, errno 33: database is locked, sql: UPDATE cookies SET last_access_utc=? WHERE name=? AND host_key=? AND path=?
+[0508/001926.081:ERROR:database.cc(1707)] Cookie sqlite error 5, errno 33: cannot commit transaction - SQL statements in progress, sql: COMMIT
+[0508/002024.315:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
